@@ -456,6 +456,10 @@ h6 {
   text-transform: uppercase;
   color: #fff;
 }
+#hero a {
+  font-size: 2px;
+  color: #ffffff86;
+}
 
 #hero h2 {
   color: #eee;
